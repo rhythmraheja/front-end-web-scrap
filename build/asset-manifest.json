@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rhythmraheja/front-end-web-scrap/static/css/main.48a432c5.css",
+    "main.js": "/rhythmraheja/front-end-web-scrap/static/js/main.b21dc232.js",
+    "index.html": "/rhythmraheja/front-end-web-scrap/index.html",
+    "main.48a432c5.css.map": "/rhythmraheja/front-end-web-scrap/static/css/main.48a432c5.css.map",
+    "main.b21dc232.js.map": "/rhythmraheja/front-end-web-scrap/static/js/main.b21dc232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a432c5.css",
+    "static/js/main.b21dc232.js"
+  ]
+}
