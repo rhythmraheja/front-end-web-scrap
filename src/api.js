@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:5000"; // Change this when deploying
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL; // Change this when deploying
 
 export const uploadResume = async (file) => {
     const formData = new FormData();
